@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 Python · FastAPI · LangGraph · RAG 全链路 · MCP · MySQL/Redis · Docker
 
 ## 联系
-[]GitHub 主页邮箱按钮](https://github.com/imimpp)
+[GitHub 主页](https://github.com/imimpp)
